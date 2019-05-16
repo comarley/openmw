@@ -1,0 +1,29 @@
+activate: https://fontawesome.com/icons/hand-point-up?style=solid
+
+bar menu: https://fontawesome.com/icons/bars?style=solid
+
+camera: https://fontawesome.com/icons/video?style=solid
+
+inventory: https://thenounproject.com/term/backpack/2551/
+
+journal: https://fontawesome.com/icons/book-open?style=solid
+
+jump: https://fontawesome.com/icons/reply?style=solid
+
+keyboard: https://fontawesome.com/icons/keyboard?style=solid
+
+load: https://fontawesome.com/icons/file?style=solid
+
+magic bolt: https://fontawesome.com/icons/bolt?style=solid
+
+pause: https://fontawesome.com/icons/pause?style=solid
+
+save: https://fontawesome.com/icons/file-download?style=solid
+
+sneak: https://fontawesome.com/icons/eye-slash?style=solid
+
+wait: https://fontawesome.com/icons/hourglass?style=solid
+
+weapon: https://thenounproject.com/term/sword/1161/
+
+attack: modified by me from weapon/sword icon above
